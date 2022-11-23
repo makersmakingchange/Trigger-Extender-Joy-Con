@@ -4,8 +4,7 @@ The Trigger Extenders for Joy-Con Controllerr is an aid designed to make it easi
 <img src="Photos/Joy-Con-Trigger-Extender.jpg" width="500" alt="Picture of Trigger Extender for Joy-Con.">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/trigger-extender-joy-con/)
 
 
 ## How to Obtain a Trigger Extenders for Joy-Con
@@ -30,7 +29,7 @@ The Makers Checklist provides an overview of the steps required to build the dev
 
 ### 2. Print the 3D Printable components
 
-Print the components ...
+Print the component. Refer to the 3D printing guide.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
 
