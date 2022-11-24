@@ -5,7 +5,7 @@ The Trigger Extenders for Joy-Con Controllerr is an aid designed to make it easi
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/trigger-extender-joy-con/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/trigger-extender-joy-con/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/joy-con-trigger-extender/)
 
 
 ## How to Obtain a Trigger Extenders for Joy-Con
