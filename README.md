@@ -4,8 +4,8 @@ The Trigger Extenders for Joy-Con Controllerr is an aid designed to make it easi
 <img src="Photos/Joy-Con-Trigger-Extender.jpg" width="500" alt="Picture of Trigger Extender for Joy-Con.">
 
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/trigger-extender-joy-con/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/trigger-extender-joy-con/)
 
 
 ## How to Obtain a Trigger Extenders for Joy-Con
@@ -15,7 +15,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Trigger Extenders for Joy-Con, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/joy-con-trigger-extender/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Trigger Extenders for Joy-Con, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/trigger-extender-joy-con/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -32,29 +32,27 @@ The Makers Checklist provides an overview of the steps required to build the dev
 
 Print the components ...
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Trigger Extenders for Joy-Con
 
-Reference the [Assembly Guide](/Documentation/Joycon_Trigger_Extender_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Joycon_Trigger_Extender_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Joycon_Trigger_Extender_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Joycon_Trigger_Extender_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Joycon_Trigger_Extender_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Joycon_Trigger_Extender_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Joycon_Trigger_Extender_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Joycon_Trigger_Extender_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Trigger_Extender_Joycon_Design_Rationale_v1.0.pdf)     |
+| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Trigger_Extender_Joycon_Maker_Checklist_v1.0.pdf)     |
+| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Trigger_Extender_Joycon_BOM_v1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Trigger_Extender_Joycon_3D_Printing_Guide_v1.0.pdf)     |
+| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_v1.0.pdf)     |
+| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Trigger_Extender_Joycon_User_Guide_v1.0.pdf)    |
+| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Trigger_Extender_Joycon_Changelog_v1.0.pdf)     |
 
-### Design Files
-[CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files/)
 
 ## Attribution
 Designer:
