@@ -30,25 +30,25 @@ The Makers Checklist provides an overview of the steps required to build the dev
 
 ### 2. Print the 3D Printable components
 
-Print the component. Refer to the 3D printing guide.
+Print the components. Refer to the 3D Printing Guide.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
 ### 3. Assemble the Trigger Extenders for Joy-Con
 
-Reference the [Assembly Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [DeviceName_Design_Rationale](/Documentation/Trigger_Extender_Joycon_Design_Rationale_v1.0.pdf)     |
-| Maker Checklist      | 1.0     | [DeviceName_Maker_Checklist](/Documentation/Trigger_Extender_Joycon_Maker_Checklist_v1.0.pdf)     |
-| Bill of Materials    | 1.0     | [DeviceName_Bill_of_Materials](/Documentation/Trigger_Extender_Joycon_BOM_v1.0.xlsx)     |
-| 3D Printing Guide    | 1.0     | [DeviceName_3D_Printing_Guide](/Documentation/Trigger_Extender_Joycon_3D_Printing_Guide_v1.0.pdf)     |
-| Assembly Guide       | 1.0     | [DeviceName_Assembly_Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_v1.0.pdf)     |
-| User Guide           | 1.0     | [DeviceName_User_Guide](/Documentation/Trigger_Extender_Joycon_User_Guide_v1.0.pdf)    |
-| Changelog            | 1.0     | [DeviceName_Changelog](/Documentation/Trigger_Extender_Joycon_Changelog_v1.0.pdf)     |
+| Design Rationale     | 1.0     | [Trigger_Extender_Joycon_Design_Rationale](/Documentation/Trigger_Extender_Joycon_Design_Rationale_V1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Trigger_Extender_Joycon_Maker_Checklist](/Documentation/Trigger_Extender_Joycon_Maker_Checklist_V1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Trigger_Extender_Joycon_Bill_of_Materials](/Documentation/Trigger_Extender_Joycon_BOM_V1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Trigger_Extender_Joycon_3D_Printing_Guide](/Documentation/Trigger_Extender_Joycon_3D_Printing_Guide_V1.0.pdf)     |
+| Assembly Guide       | 1.0     | [Trigger_Extender_Joycon_Assembly_Guide](/Documentation/Trigger_Extender_Joycon_Assembly_Guide_V1.0.pdf)     |
+| User Guide           | 1.0     | [Trigger_Extender_Joycon_User_Guide](/Documentation/Trigger_Extender_Joycon_User_Guide_V1.0.pdf)    |
+| Changelog            | 1.0     | [Trigger_Extender_Joycon_Changelog](/Documentation/Trigger_Extender_Joycon_Changelog_V1.0.pdf)     |
 
 
 ### Build Files
